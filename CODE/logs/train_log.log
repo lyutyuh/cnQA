@@ -467,3 +467,24 @@ train: 0.7818627450980392 0.4832088246065028{'recall': 0.7427884615384616, 'prec
 train: 0.7837009803921569 0.4822341320561428{'recall': 0.7384428223844283, 'precision': 0.8147651006711409}
 {'samples': 1637.0, 'MRR': tensor(0.7506, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7638, dtype=torch.float64, device='cuda:0')}
 
+
+
+
+train: 0.6384803921568627 0.6134412054922066{'recall': 0.5560916767189384, 'precision': 0.6749633967789166}
+{'samples': 1637.0, 'MRR': tensor(0.6954, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7089, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7628676470588235 0.5173293468998927{'recall': 0.6954436450839329, 'precision': 0.8134642356241234}
+{'samples': 1637.0, 'MRR': tensor(0.7261, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7392, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7806372549019608 0.48600133260091144{'recall': 0.6972010178117048, 'precision': 0.8203592814371258}
+{'samples': 1637.0, 'MRR': tensor(0.7297, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7428, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7849264705882353 0.49160085939893533{'recall': 0.7199017199017199, 'precision': 0.8265162200282088}
+{'samples': 1637.0, 'MRR': tensor(0.7102, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7238, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7873774509803921 0.48866791818656174{'recall': 0.734375, 'precision': 0.8290366350067843}
+{'samples': 1637.0, 'MRR': tensor(0.7484, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7615, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7971813725490197 0.45499633340274587{'recall': 0.7330827067669173, 'precision': 0.8321479374110953}
+{'samples': 1637.0, 'MRR': tensor(0.7413, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7545, dtype=torch.float64, device='cuda:0')}
+

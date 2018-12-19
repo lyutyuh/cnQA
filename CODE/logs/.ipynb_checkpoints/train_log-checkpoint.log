@@ -452,3 +452,30 @@ train: 0.8793532338308457 0.30666286791141945{'recall': 0.8628125, 'precision': 
 
 
 
+train: 0.6924019607843137 0.5898950240191292{'recall': 0.6405867970660146, 'precision': 0.7158469945355191}
+{'samples': 1637.0, 'MRR': tensor(0.6898, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7034, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7837009803921569 0.4948214736639285{'recall': 0.7050632911392405, 'precision': 0.8227474150664698}
+{'samples': 1637.0, 'MRR': tensor(0.7190, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7328, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7689950980392157 0.49100565442851946{'recall': 0.7004773269689738, 'precision': 0.82328190743338}
+{'samples': 1637.0, 'MRR': tensor(0.7476, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7609, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7818627450980392 0.4832088246065028{'recall': 0.7427884615384616, 'precision': 0.8131578947368421}
+{'samples': 1637.0, 'MRR': tensor(0.7529, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7663, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7837009803921569 0.4822341320561428{'recall': 0.7384428223844283, 'precision': 0.8147651006711409}
+{'samples': 1637.0, 'MRR': tensor(0.7506, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7638, dtype=torch.float64, device='cuda:0')}
+
+
+
+
+train: 0.6384803921568627 0.6134412054922066{'recall': 0.5560916767189384, 'precision': 0.6749633967789166}
+{'samples': 1637.0, 'MRR': tensor(0.6954, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7089, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7628676470588235 0.5173293468998927{'recall': 0.6954436450839329, 'precision': 0.8134642356241234}
+{'samples': 1637.0, 'MRR': tensor(0.7261, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7392, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7806372549019608 0.48600133260091144{'recall': 0.6972010178117048, 'precision': 0.8203592814371258}
+{'samples': 1637.0, 'MRR': tensor(0.7297, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7428, dtype=torch.float64, device='cuda:0')}
+
