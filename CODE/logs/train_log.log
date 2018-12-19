@@ -1,0 +1,469 @@
+train: 0.5139235764235764 0.711099935221029{'recall': 0.9129203870205022, 'precision': 0.5086937678772645}
+{'samples': 1637.0, 'MRR': tensor(0.1702, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.1891, dtype=torch.float64, device='cuda:0')}
+
+train: 0.6000561938061938 0.6779051636839722{'recall': 0.6211629648115797, 'precision': 0.5963462114405511}
+{'samples': 1637.0, 'MRR': tensor(0.1329, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.1513, dtype=torch.float64, device='cuda:0')}
+
+train: 0.6293394105894106 0.6595463862309565{'recall': 0.7850930515290376, 'precision': 0.599115065299617}
+{'samples': 1637.0, 'MRR': tensor(0.2570, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.2728, dtype=torch.float64, device='cuda:0')}
+
+train: 0.6472277722277723 0.6410170030165148{'recall': 0.8275742807734633, 'precision': 0.6059580541934295}
+{'samples': 1637.0, 'MRR': tensor(0.2816, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.2978, dtype=torch.float64, device='cuda:0')}
+
+train: 0.6629464285714286 0.6258866865556318{'recall': 0.8316957505501659, 'precision': 0.624081309889292}
+{'samples': 1637.0, 'MRR': tensor(0.2696, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.2863, dtype=torch.float64, device='cuda:0')}
+
+
+
+
+train: 0.6380962787212787 0.6236578972785027{'recall': 0.6846278216528823, 'precision': 0.6280197370297481}
+{'samples': 1637.0, 'MRR': tensor(0.2955, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.3128, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7710726773226774 0.4855357045298452{'recall': 0.810136039597796, 'precision': 0.7523344222485617}
+{'samples': 1637.0, 'MRR': tensor(0.2856, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.3035, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8414866383616384 0.36743645758538335{'recall': 0.8787434489643124, 'precision': 0.8179864680430932}
+{'samples': 1637.0, 'MRR': tensor(0.2981, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.3156, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8883304195804196 0.27975951660644044{'recall': 0.9216438869125632, 'precision': 0.8641523787231552}
+{'samples': 1637.0, 'MRR': tensor(0.2877, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.3057, dtype=torch.float64, device='cuda:0')}
+
+
+
+
+
+
+train: 0.6441215034965035 0.6240147791661463{'recall': 0.6312235754401464, 'precision': 0.6429283028569592}
+{'samples': 1637.0, 'MRR': tensor(0.3123, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.3280, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7631274975024975 0.4940577610865697{'recall': 0.7696207285016898, 'precision': 0.7589101120128368}
+{'samples': 1637.0, 'MRR': tensor(0.3183, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.3345, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8322146603396603 0.38329419603833664{'recall': 0.8453544284163177, 'precision': 0.8254074029199734}
+{'samples': 1637.0, 'MRR': tensor(0.3131, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.3291, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8841939310689311 0.2839701802104146{'recall': 0.8952154754836089, 'precision': 0.8757031058938616}
+{'samples': 1637.0, 'MRR': tensor(0.3056, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.3225, dtype=torch.float64, device='cuda:0')}
+
+train: 0.9181755744255744 0.21641331690770169{'recall': 0.9305692763645345, 'precision': 0.9096752776436504}
+{'samples': 1637.0, 'MRR': tensor(0.3083, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.3253, dtype=torch.float64, device='cuda:0')}
+
+train: 0.9392482517482518 0.1644281774134069{'recall': 0.9509806978702173, 'precision': 0.9293049334186549}
+{'samples': 1637.0, 'MRR': tensor(0.3008, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.3190, dtype=torch.float64, device='cuda:0')}
+
+
+
+train: 0.6491477272727273 0.6164505050613449{'recall': 0.7100657813081792, 'precision': 0.6353666324235777}
+{'samples': 1637.0, 'MRR': tensor(0.2878, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.3050, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7874313186813187 0.460984175736373{'recall': 0.8199231322063557, 'precision': 0.7696143129491128}
+{'samples': 1637.0, 'MRR': tensor(0.2973, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.3148, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8559097152847153 0.34005499505377434{'recall': 0.8893929037469708, 'precision': 0.8346502609557688}
+{'samples': 1637.0, 'MRR': tensor(0.2874, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.3050, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8975555694305695 0.2580270986337881{'recall': 0.9287513605971077, 'precision': 0.8748535270681977}
+{'samples': 1637.0, 'MRR': tensor(0.2908, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.3087, dtype=torch.float64, device='cuda:0')}
+
+
+
+train: 0.6637425074925075 0.6017305448457793{'recall': 0.6857303757469574, 'precision': 0.6559329642376178}
+{'samples': 1637.0, 'MRR': tensor(0.2943, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.3126, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8171672077922078 0.40999472939170206{'recall': 0.8391867488635656, 'precision': 0.8045431479657323}
+{'samples': 1637.0, 'MRR': tensor(0.3004, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.3183, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7697770979020979 0.4864398297015485{'recall': 0.758027308435688, 'precision': 0.7767945564322908}
+{'samples': 1637.0, 'MRR': tensor(0.6027, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.6167, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8697864635364635 0.32155765377200923{'recall': 0.8794372904721621, 'precision': 0.8619906028314345}
+{'samples': 1637.0, 'MRR': tensor(0.5506, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5644, dtype=torch.float64, device='cuda:0')}
+
+
+
+
+train: 0.7240492518703242 0.5573395612531172{'recall': 0.6900438321853475, 'precision': 0.7384821578153795}
+{'samples': 1637.0, 'MRR': tensor(0.5968, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.6109, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7823410224438903 0.4716005777183019{'recall': 0.7800965581685095, 'precision': 0.7838810641627543}
+{'samples': 1637.0, 'MRR': tensor(0.5968, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.6112, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8308135910224439 0.39545724160058837{'recall': 0.8351408285870329, 'precision': 0.8276501971700302}
+{'samples': 1637.0, 'MRR': tensor(0.5708, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5853, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8622973815461347 0.34065547191591333{'recall': 0.872378716744914, 'precision': 0.8541985902543672}
+{'samples': 1637.0, 'MRR': tensor(0.5636, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5784, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8806109725685786 0.300892722874211{'recall': 0.8943783275916066, 'precision': 0.869462627492769}
+{'samples': 1637.0, 'MRR': tensor(0.5634, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5779, dtype=torch.float64, device='cuda:0')}
+
+train: 0.9069513715710723 0.24523954320132285{'recall': 0.9218956022647948, 'precision': 0.8959071380116077}
+{'samples': 1637.0, 'MRR': tensor(0.5316, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5462, dtype=torch.float64, device='cuda:0')}
+
+
+
+
+train: 0.7295433291770573 0.5504874517198215{'recall': 0.7020912695327685, 'precision': 0.7439044481054365}
+{'samples': 1637.0, 'MRR': tensor(0.5611, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5755, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7775483167082294 0.4773599144229271{'recall': 0.7704700086024869, 'precision': 0.7802946301283067}
+{'samples': 1637.0, 'MRR': tensor(0.5676, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5820, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8178771820448878 0.41781323211746024{'recall': 0.8220570981619085, 'precision': 0.8141606631032613}
+{'samples': 1637.0, 'MRR': tensor(0.5579, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5718, dtype=torch.float64, device='cuda:0')}
+
+train: 0.843555174563591 0.3681193896362609{'recall': 0.8549505336137727, 'precision': 0.8359993906154783}
+{'samples': 1637.0, 'MRR': tensor(0.5500, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5648, dtype=torch.float64, device='cuda:0')}
+
+
+
+
+
+
+train: 0.73741427680798 0.538696327114343{'recall': 0.7083494844561594, 'precision': 0.7542512795113092}
+{'samples': 1637.0, 'MRR': tensor(0.5974, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.6118, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7958229426433915 0.4573058320994389{'recall': 0.7913652091852784, 'precision': 0.795494071146245}
+{'samples': 1637.0, 'MRR': tensor(0.5563, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5705, dtype=torch.float64, device='cuda:0')}
+
+
+
+train: 0.7014148009950248 0.5844807031735852{'recall': 0.6639776605646913, 'precision': 0.7187237615449202}
+{'samples': 1637.0, 'MRR': tensor(0.5770, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5917, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7624378109452736 0.5098290135018269{'recall': 0.746445867833151, 'precision': 0.7692803091289647}
+{'samples': 1637.0, 'MRR': tensor(0.5729, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5870, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7894123134328358 0.4667642318194185{'recall': 0.7792393026941363, 'precision': 0.7888657147441039}
+{'samples': 1637.0, 'MRR': tensor(0.5843, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5986, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8097792288557214 0.43939539211899487{'recall': 0.8117610454262602, 'precision': 0.8083656080557707}
+{'samples': 1637.0, 'MRR': tensor(0.6007, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.6138, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8198072139303483 0.40911607125505284{'recall': 0.831510857846912, 'precision': 0.8151894911671448}
+{'samples': 1637.0, 'MRR': tensor(0.5897, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.6035, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8440609452736318 0.37449334747162627{'recall': 0.8562587033885193, 'precision': 0.8370896989865376}
+{'samples': 1637.0, 'MRR': tensor(0.5629, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5769, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8599191542288557 0.3428242621730216{'recall': 0.8727498448168839, 'precision': 0.8513472600666061}
+{'samples': 1637.0, 'MRR': tensor(0.5602, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5741, dtype=torch.float64, device='cuda:0')}
+
+
+
+train: 0.6077425373134329 0.6535590632044854{'recall': 0.6152531842187015, 'precision': 0.6065849923430322}
+{'samples': 1637.0, 'MRR': tensor(0.4350, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.4503, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7425373134328358 0.5323539088614544{'recall': 0.7416498368805344, 'precision': 0.7432663864237895}
+{'samples': 1637.0, 'MRR': tensor(0.5538, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5681, dtype=torch.float64, device='cuda:0')}
+
+train: 0.775497512437811 0.48467691146319186{'recall': 0.7633575719253873, 'precision': 0.7763665594855306}
+{'samples': 1637.0, 'MRR': tensor(0.5809, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5954, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7981187810945274 0.4462914538027635{'recall': 0.8019925280199253, 'precision': 0.7954299830168288}
+{'samples': 1637.0, 'MRR': tensor(0.5866, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.6009, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7996735074626866 nan{'recall': 0.784113738216659, 'precision': 0.8113207547169812}
+{'samples': 1637.0, 'MRR': tensor(0.1712, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.1900, dtype=torch.float64, device='cuda:0')}
+
+train: 0.4944029850746269 nan{'recall': 0.0, 'precision': nan}
+{'samples': 1637.0, 'MRR': tensor(0.1712, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.1900, dtype=torch.float64, device='cuda:0')}
+
+train: 0.5007773631840796 nan{'recall': 0.0, 'precision': nan}
+{'samples': 1637.0, 'MRR': tensor(0.1712, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.1900, dtype=torch.float64, device='cuda:0')}
+
+train: 0.496113184079602 nan{'recall': 0.0, 'precision': nan}
+{'samples': 1637.0, 'MRR': tensor(0.1712, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.1900, dtype=torch.float64, device='cuda:0')}
+
+train: 0.5093283582089553 nan{'recall': 0.0, 'precision': nan}
+train: 0.595693407960199 0.6561185163051928{'recall': 0.586530931871574, 'precision': 0.5938788455439264}
+{'samples': 1637.0, 'MRR': tensor(0.4997, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5149, dtype=torch.float64, device='cuda:0')}
+
+train: 0.5668532338308457 nan{'recall': 0.21278581427904805, 'precision': 0.728046833422033}
+{'samples': 1637.0, 'MRR': tensor(0.1712, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.1900, dtype=torch.float64, device='cuda:0')}
+
+train: 0.5006218905472637 nan{'recall': 0.0, 'precision': nan}
+{'samples': 1637.0, 'MRR': tensor(0.1712, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.1900, dtype=torch.float64, device='cuda:0')}
+
+train: 0.5070740049751243 nan{'recall': 0.0, 'precision': nan}
+{'samples': 1637.0, 'MRR': tensor(0.1712, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.1900, dtype=torch.float64, device='cuda:0')}
+
+train: 0.4958799751243781 nan{'recall': 0.0, 'precision': nan}
+{'samples': 1637.0, 'MRR': tensor(0.1712, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.1900, dtype=torch.float64, device='cuda:0')}
+
+
+
+
+train: 0.6123289800995025 0.6561474396814755{'recall': 0.6519448318611498, 'precision': 0.6054979850316637}
+{'samples': 1637.0, 'MRR': tensor(0.4131, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.4281, dtype=torch.float64, device='cuda:0')}
+
+train: 0.742304104477612 0.5342514645400925{'recall': 0.7411418845737273, 'precision': 0.7447139303482587}
+{'samples': 1637.0, 'MRR': tensor(0.5695, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5845, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7803949004975125 0.4728287654136544{'recall': 0.7844840961986036, 'precision': 0.7788046826863833}
+{'samples': 1637.0, 'MRR': tensor(0.5615, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5749, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7966417910447762 0.44435149994655626{'recall': 0.7981736573285869, 'precision': 0.7971865821610759}
+{'samples': 1637.0, 'MRR': tensor(0.5870, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.6002, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8280472636815921 0.39915906611959734{'recall': 0.8346849656893325, 'precision': 0.8228782287822878}
+{'samples': 1637.0, 'MRR': tensor(0.5990, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.6132, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8389303482587065 0.37633514404296875{'recall': 0.8487226839027393, 'precision': 0.8350999394306481}
+{'samples': 1637.0, 'MRR': tensor(0.5852, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5991, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8527674129353234 0.35502343628537003{'recall': 0.8638670973696354, 'precision': 0.8476981132075472}
+{'samples': 1637.0, 'MRR': tensor(0.5727, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5869, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8754664179104478 0.3155083917266694{'recall': 0.8892119357306809, 'precision': 0.8687397219315294}
+{'samples': 1637.0, 'MRR': tensor(0.5602, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5743, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8806747512437811 0.3016924502244636{'recall': 0.8947693257213393, 'precision': 0.8717678893565844}
+{'samples': 1637.0, 'MRR': tensor(0.5765, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5900, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8891480099502488 0.2797951769472948{'recall': 0.9002525252525253, 'precision': 0.8778085564789165}
+{'samples': 1637.0, 'MRR': tensor(0.5627, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5763, dtype=torch.float64, device='cuda:0')}
+
+
+
+
+
+
+
+
+train: 0.7939210199004975 0.49827507360657647{'recall': 0.0, 'precision': nan}
+{'samples': 1637.0, 'MRR': tensor(0.4398, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.4554, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8009950248756219 0.44662790630587296{'recall': 0.034309946029298384, 'precision': 0.6180555555555556}
+{'samples': 1637.0, 'MRR': tensor(0.5031, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5181, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8229944029850746 0.39397210268238886{'recall': 0.20245641838351822, 'precision': 0.6593548387096774}
+{'samples': 1637.0, 'MRR': tensor(0.5489, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5640, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8389303482587065 0.3692199175630636{'recall': 0.3664501337409247, 'precision': 0.6984705025491624}
+{'samples': 1637.0, 'MRR': tensor(0.5729, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5875, dtype=torch.float64, device='cuda:0')}
+
+train: 0.845771144278607 0.3559643569870375{'recall': 0.44068441064638786, 'precision': 0.6931818181818182}
+{'samples': 1637.0, 'MRR': tensor(0.5665, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.5811, dtype=torch.float64, device='cuda:0')}
+
+
+
+train: 0.8481809701492538 0.3866325112717662{'recall': 0.3726323927328952, 'precision': 0.7449768160741885}
+{'samples': 1637.0, 'MRR': tensor(0.7380, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7518, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8798973880597015 0.3206240525886194{'recall': 0.529434250764526, 'precision': 0.8151854031783402}
+{'samples': 1637.0, 'MRR': tensor(0.7538, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7669, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8902363184079602 0.29348242460791746{'recall': 0.5487117552334944, 'precision': 0.8240628778718259}
+{'samples': 1637.0, 'MRR': tensor(0.7629, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7756, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8931125621890548 0.2889079952714455{'recall': 0.5989445910290238, 'precision': 0.8363157894736842}
+{'samples': 1637.0, 'MRR': tensor(0.7399, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7533, dtype=torch.float64, device='cuda:0')}
+
+train: 0.9039179104477612 0.2633678758915384{'recall': 0.632398753894081, 'precision': 0.8475991649269311}
+{'samples': 1637.0, 'MRR': tensor(0.7472, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7607, dtype=torch.float64, device='cuda:0')}
+
+
+
+
+train: 0.853467039800995 0.3761267970450482{'recall': 0.40144322066084315, 'precision': 0.773792093704246}
+{'samples': 1637.0, 'MRR': tensor(0.7224, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7359, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8776430348258707 0.3214875406293727{'recall': 0.5302626570232204, 'precision': 0.8038084246970572}
+{'samples': 1637.0, 'MRR': tensor(0.7567, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7695, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8908582089552238 0.2905225231872862{'recall': 0.578397212543554, 'precision': 0.8258706467661692}
+{'samples': 1637.0, 'MRR': tensor(0.7498, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7629, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8973103233830846 0.27001431213682564{'recall': 0.6144859813084113, 'precision': 0.8266107909900472}
+{'samples': 1637.0, 'MRR': tensor(0.7555, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7690, dtype=torch.float64, device='cuda:0')}
+
+train: 0.9071050995024875 0.25314547410651816{'recall': 0.6467583497053045, 'precision': 0.8475798146240988}
+{'samples': 1637.0, 'MRR': tensor(0.7434, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7569, dtype=torch.float64, device='cuda:0')}
+
+train: 0.9022077114427861 0.2556058209926928{'recall': 0.6450249711870918, 'precision': 0.8340784898161947}
+{'samples': 1637.0, 'MRR': tensor(0.7349, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7481, dtype=torch.float64, device='cuda:0')}
+
+train: 0.9144123134328358 0.23266635723968052{'recall': 0.6761904761904762, 'precision': 0.8567119155354449}
+{'samples': 1637.0, 'MRR': tensor(0.7396, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7528, dtype=torch.float64, device='cuda:0')}
+
+train: 0.9186100746268657 0.22271333760883086{'recall': 0.6963788300835655, 'precision': 0.8603736479842674}
+{'samples': 1637.0, 'MRR': tensor(0.7397, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7535, dtype=torch.float64, device='cuda:0')}
+
+train: 0.923818407960199 0.20810881657386893{'recall': 0.7164059366225431, 'precision': 0.8674113647401651}
+{'samples': 1637.0, 'MRR': tensor(0.7416, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7552, dtype=torch.float64, device='cuda:0')}
+
+train: 0.9193874378109452 0.213294128873455{'recall': 0.7282402128468263, 'precision': 0.8561215370866846}
+{'samples': 1637.0, 'MRR': tensor(0.7248, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7383, dtype=torch.float64, device='cuda:0')}
+
+
+
+
+
+train: 0.8383861940298507 0.39413706461588544{'recall': 0.32576923076923076, 'precision': 0.722080136402387}
+{'samples': 1637.0, 'MRR': tensor(0.7346, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7480, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8845615671641791 0.3061149559210782{'recall': 0.5299760191846523, 'precision': 0.8110091743119267}
+{'samples': 1637.0, 'MRR': tensor(0.7671, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7801, dtype=torch.float64, device='cuda:0')}
+
+train: 0.894356343283582 0.28888438590130405{'recall': 0.5846571096474235, 'precision': 0.8402004454342984}
+{'samples': 1637.0, 'MRR': tensor(0.7588, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7717, dtype=torch.float64, device='cuda:0')}
+
+train: 0.900497512437811 0.27511511276017375{'recall': 0.6304595518420053, 'precision': 0.8439247585155059}
+{'samples': 1637.0, 'MRR': tensor(0.7395, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7526, dtype=torch.float64, device='cuda:0')}
+
+train: 0.9000310945273632 0.2662519388530978{'recall': 0.6279693486590038, 'precision': 0.838792221084954}
+{'samples': 1637.0, 'MRR': tensor(0.7290, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7422, dtype=torch.float64, device='cuda:0')}
+
+
+
+
+
+
+train: 0.7671797263681592 0.5006368077216456{'recall': 0.7164638841829662, 'precision': 0.8012400964519463}
+{'samples': 1637.0, 'MRR': tensor(0.7428, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7557, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8217506218905473 0.4174718904258007{'recall': 0.7687725348800752, 'precision': 0.8570429919608529}
+{'samples': 1637.0, 'MRR': tensor(0.7458, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7591, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8383861940298507 0.37537368850328434{'recall': 0.8024595267745953, 'precision': 0.8642078792958927}
+{'samples': 1637.0, 'MRR': tensor(0.7260, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7391, dtype=torch.float64, device='cuda:0')}
+
+train: 0.853467039800995 0.3494742853724541{'recall': 0.8328468274696574, 'precision': 0.8718237375361853}
+{'samples': 1637.0, 'MRR': tensor(0.7612, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7738, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8728233830845771 0.31005686669800414{'recall': 0.8558992693921965, 'precision': 0.8859211584875302}
+{'samples': 1637.0, 'MRR': tensor(0.7396, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7528, dtype=torch.float64, device='cuda:0')}
+
+
+
+train: 0.7813277363184079 0.4891949174416006{'recall': 0.714063714063714, 'precision': 0.8252514367816092}
+{'samples': 1637.0, 'MRR': tensor(0.7550, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7672, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8254819651741293 0.4063826603675956{'recall': 0.7752156862745098, 'precision': 0.8588807785888077}
+{'samples': 1637.0, 'MRR': tensor(0.7565, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7695, dtype=torch.float64, device='cuda:0')}
+
+train: 0.841806592039801 0.36840342051947295{'recall': 0.8044876824101679, 'precision': 0.8666328600405679}
+{'samples': 1637.0, 'MRR': tensor(0.7529, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7661, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8620957711442786 0.33149328279258006{'recall': 0.8357835470753832, 'precision': 0.8806855636123929}
+{'samples': 1637.0, 'MRR': tensor(0.7464, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7596, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8732120646766169 0.31209300406536655{'recall': 0.8648939440516447, 'precision': 0.8821131838846215}
+{'samples': 1637.0, 'MRR': tensor(0.7154, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7287, dtype=torch.float64, device='cuda:0')}
+
+
+
+
+
+
+
+
+train: 0.7723103233830846 0.5008166109151508{'recall': 0.7096874514072462, 'precision': 0.8112335584784928}
+{'samples': 1637.0, 'MRR': tensor(0.7413, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7547, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8151430348258707 0.42694592831739736{'recall': 0.7653977096874033, 'precision': 0.8515840220385675}
+{'samples': 1637.0, 'MRR': tensor(0.7600, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7739, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8386194029850746 0.37752969466631686{'recall': 0.8017429193899782, 'precision': 0.8653006382264025}
+{'samples': 1637.0, 'MRR': tensor(0.7399, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7538, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8628731343283582 0.3334303898597831{'recall': 0.8421465557822062, 'precision': 0.8762448979591837}
+{'samples': 1637.0, 'MRR': tensor(0.7441, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7586, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8812189054726368 0.3018298931975863{'recall': 0.8715610510046368, 'precision': 0.8899936868686869}
+{'samples': 1637.0, 'MRR': tensor(0.7216, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7356, dtype=torch.float64, device='cuda:0')}
+
+
+
+train: 0.7658582089552238 0.500442163268132{'recall': 0.7127261384903306, 'precision': 0.7961672473867596}
+{'samples': 1637.0, 'MRR': tensor(0.7547, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7687, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8271921641791045 0.40437396604623366{'recall': 0.7819182389937107, 'precision': 0.8560853847478052}
+{'samples': 1637.0, 'MRR': tensor(0.7664, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7797, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8409514925373134 0.37010606604429025{'recall': 0.811288571871608, 'precision': 0.8632238904471209}
+{'samples': 1637.0, 'MRR': tensor(0.7522, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7656, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8608519900497512 0.3332571912167677{'recall': 0.8407286314806165, 'precision': 0.8756283444138154}
+{'samples': 1637.0, 'MRR': tensor(0.7534, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7665, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8717350746268657 0.3101692769064832{'recall': 0.8579817647967857, 'precision': 0.883654305268184}
+{'samples': 1637.0, 'MRR': tensor(0.7532, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7664, dtype=torch.float64, device='cuda:0')}
+
+
+
+
+
+train: 0.7686567164179104 0.49335229218895754{'recall': 0.7166484630987674, 'precision': 0.7983660698765861}
+{'samples': 1637.0, 'MRR': tensor(0.7518, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7649, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8236162935323383 0.40706486488456156{'recall': 0.7733291789998442, 'precision': 0.8591208030460367}
+{'samples': 1637.0, 'MRR': tensor(0.7562, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7691, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8505907960199005 0.3534026264551267{'recall': 0.8139462163852408, 'precision': 0.8767261704277535}
+{'samples': 1637.0, 'MRR': tensor(0.7534, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7665, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8577425373134329 0.3405326349818291{'recall': 0.8340557275541796, 'precision': 0.8766677513830133}
+{'samples': 1637.0, 'MRR': tensor(0.7474, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7608, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8760105721393034 0.3058094764823344{'recall': 0.8646396048772959, 'precision': 0.8863924050632911}
+{'samples': 1637.0, 'MRR': tensor(0.7371, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7500, dtype=torch.float64, device='cuda:0')}
+
+
+
+DROPOUT = 0.0
+train: 0.7708333333333334 0.4939258252803366{'recall': 0.7069182389937106, 'precision': 0.8057347670250896}
+{'samples': 1637.0, 'MRR': tensor(0.7382, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7511, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8243159203980099 0.40823459150779307{'recall': 0.7769399937166196, 'precision': 0.8548219840995507}
+{'samples': 1637.0, 'MRR': tensor(0.7435, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7571, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8440609452736318 0.3711523938534865{'recall': 0.8175444063571206, 'precision': 0.8627096349884906}
+{'samples': 1637.0, 'MRR': tensor(0.7353, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7488, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8549440298507462 0.3492712903378615{'recall': 0.8376332457902055, 'precision': 0.869328202661536}
+{'samples': 1637.0, 'MRR': tensor(0.7453, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7580, dtype=torch.float64, device='cuda:0')}
+
+train: 0.873056592039801 0.3109037294909729{'recall': 0.852294154619736, 'precision': 0.8867091711623345}
+{'samples': 1637.0, 'MRR': tensor(0.7310, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7440, dtype=torch.float64, device='cuda:0')}
+
+
+
+DROPOUT=0.3
+
+train: 0.7600279850746269 0.5037444385130014{'recall': 0.7139993832870799, 'precision': 0.7898686679174484}
+{'samples': 1637.0, 'MRR': tensor(0.7596, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7731, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8199626865671642 0.40788891540831{'recall': 0.76765625, 'precision': 0.8556252176941832}
+{'samples': 1637.0, 'MRR': tensor(0.7591, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7717, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8444496268656716 0.36541941628527286{'recall': 0.8198061780738947, 'precision': 0.869718875502008}
+{'samples': 1637.0, 'MRR': tensor(0.7353, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7486, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8533115671641791 0.3478439482883434{'recall': 0.8259928913614588, 'precision': 0.8753684900098264}
+{'samples': 1637.0, 'MRR': tensor(0.7599, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7725, dtype=torch.float64, device='cuda:0')}
+
+train: 0.8793532338308457 0.30666286791141945{'recall': 0.8628125, 'precision': 0.8912201420271143}
+{'samples': 1637.0, 'MRR': tensor(0.7279, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7413, dtype=torch.float64, device='cuda:0')}
+
+
+
+
+
+
+train: 0.6924019607843137 0.5898950240191292{'recall': 0.6405867970660146, 'precision': 0.7158469945355191}
+{'samples': 1637.0, 'MRR': tensor(0.6898, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7034, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7837009803921569 0.4948214736639285{'recall': 0.7050632911392405, 'precision': 0.8227474150664698}
+{'samples': 1637.0, 'MRR': tensor(0.7190, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7328, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7689950980392157 0.49100565442851946{'recall': 0.7004773269689738, 'precision': 0.82328190743338}
+{'samples': 1637.0, 'MRR': tensor(0.7476, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7609, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7818627450980392 0.4832088246065028{'recall': 0.7427884615384616, 'precision': 0.8131578947368421}
+{'samples': 1637.0, 'MRR': tensor(0.7529, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7663, dtype=torch.float64, device='cuda:0')}
+
+train: 0.7837009803921569 0.4822341320561428{'recall': 0.7384428223844283, 'precision': 0.8147651006711409}
+{'samples': 1637.0, 'MRR': tensor(0.7506, dtype=torch.float64, device='cuda:0'), 'MAP': tensor(0.7638, dtype=torch.float64, device='cuda:0')}
+

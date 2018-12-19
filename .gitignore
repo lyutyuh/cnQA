@@ -1,0 +1,5 @@
+upload_space.rar
+/DATA/*
+/CODE/logs/lstm*
+/PRETRAINED/*
+data.*

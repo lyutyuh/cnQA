@@ -1,0 +1,9 @@
+{"candidates": [{"label": 1, "sentence": "`` Tale of Genji '' was written at the beginning of the 11th century by a brilliant young widow , Shikibu Murasaki , who was governess to the empress and had attracted the -LRB- apparently unwanted -RRB- attentions of the empress 's father ."}, 
+{"label": 1, "sentence": "Kumar said that Javanese immigrants carried the Panji tales as far away as Japan , where , she believes , they became the basis of `` The Tale of Genji '' by Lady Murasaki Shikibu ."}, 
+{"label": 1, "sentence": "Kano script made possible the development of a secular Japanese literature , beginning with such Late Heian classics as Lady Murasaki 's `` Tales of Genji . ''"}], "question": "Who wrote the 'Tale of Genji ' ?"}
+{"candidates": [{"label": 1, "sentence": "`` When rock first started , it was done with piano by Little Richard and Chuck Berry , and white kids loved it , '' said rapper and rocker Ice T . `` Rock came back again in the form of hip-hop. ''"}, 
+{"label": 1, "sentence": "Ice T also performs on rap tours with overwhelmingly black audiences ."}, 
+{"label": 0, "sentence": "Its singer , Jonathon Davis , is a star in the making ."}, 
+{"label": 0, "sentence": "LOS ANGELES _ Talk about a lineup of musicians : Jane 's Addiction/Porno for Pyros frontman Perry Farrell , rap/thrash star Ice-T , ex -X singer Exene Cervenka , Dead Kennedy Jello Biafra , Spearhead/Disposable Heroes of Hiphoprisy spearhead Michael Franti ."}, 
+{"label": 0, "sentence": "It 's the Spitfire Tour , the brainchild of yet another musician , Rage Against the Machine 's lead singer Zack de la Rocha , who has pursued a decidedly leftist political agenda every bit as ardently as he has a musical career ."}],
+"question": "What kind of singer is Ice T ?"}
